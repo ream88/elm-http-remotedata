@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "Mario Uher <mario@yodel.io>",
+  "license": "MIT"
+}
